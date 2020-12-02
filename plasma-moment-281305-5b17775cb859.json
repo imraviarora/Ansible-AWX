@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "plasma-moment-281305",
+  "private_key_id": "5b17775cb85986f407609fe904e4df564b9b91d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCeepSqolrHX0Sn\nrntt4Q/atZmgE0jbff5ZwESeQsmO6MBv8nI8UDS0Q1HvumcYnWTPltFAPZ0La9d4\nf2ixrjnF/JsxYlUGju8LGpSrZD0a2fVKEL15MiC9KTha0zDqVUxbm+BG18MBXu1K\nE4KaGE1kiGb3yFxmKQVDvC+7HEagtFOdSQ0e92n1r1jyn9ljwHBHVhxpTSVeDJRM\nlcf02LRIZsLmzOMfKxoLkf5w5xCCULsb4VWHzK0vFDJyBSflQ+iEJkZp2CkwKQoA\nWaFFgpZG6ZvJFo37Oz2KgMfJ4Qlzwi+07PWVFXIr74jy/WFw1kGbRoQkiWxMCP45\najuZIO0vAgMBAAECggEACZLQHkq2fyrDI/oHXMjmw0iLIj9n/FJtJhDWVFUmheqL\njXew7PHPbUBP19KD3dnMODodI+tU7Fa0aoQP2AP1W396BI6zIjVKPXp6lqv0gQW/\nqpy+RW8AyUyPKfVuFAnZFgOhlcX88r1ASmRJVHO5YSRYTAmfg1BhEAlzPLNllNmX\nZv5P1bNweg2gHR4v0gVLK8eANKc+/USgblFsSRIWtYbCzwu9o7w/OgnoBsPGYY6m\nv7hW+gAWdq6xJTekcT71SEIYiFDV8uZ+KtMPOQKG/iKktK3cFIdwF4rgRhtPC8Ic\nhmUPOlpxTdspc/itQqSEtxQ61EC/teDOaFmVfVj7sQKBgQDfzBVTwzxDQCHHb2sS\nx7WJGQllMbAClB5qC5sAYNWf9Qr6ZqxJn4jT2dhnFSnDaaIayGGDy83F2Gm5PkMp\nweThiT+fWLZ5vDKHiPm3jqAlxKPRb8JCYflOdKZbW7zQPmG3RWC/jMB2PCCH4Pq1\nTVC07zGji3ovah3D3LDxaP4veQKBgQC1SGTg/uwW5k1Y8v0a6pm7E3xfhkd7Fb1t\nw+5j1hK99gUMeTzQG5udyznQN91MwGpSk9VCKTT/Fat0W7utgsmfPzmg5bgS6+JE\nC9NlzD1KYTBVKLsf7Rd5mCabsynnZ95JMvxLzBZppnNr8wdQKuhUw9D8wniTbOkT\nXEWNw9wP5wKBgQCs9DOnQELaVj3Euz6sjNqm0UqJghTcaUv3+HAZorx1mhKZ4a9U\nVo6P6tNrFtfnxUMaH7H9AQxN0ioilxOgudAA3OjmZNDg06jZRep3CSqLBaT0vsIK\nO11IXK4T/Jm29f7efCeA4W378gvR9vTKGK4+pnxeP/R1oDTQoUW9y75lQQKBgD/D\nsxghEtILN/GtprGtC13uQLUo+kOlJfhSDqw3RGhk/OmiS224CEi8jx1aSRESLVPW\nhBC9hdKjwKcxDRa/BkRpbM/XfaPKLNBaiIUqDfT3spSBuzBDqRowFoR1xKuMsXd1\n46CVrNyEm9zAozXjoc0PA5ekn9zbVjBlKGHxHprJAoGBAIn6sW0f3bl+tqRciltS\nAQgOkQm1CoPGmEGtMGuemat3cwjaoqqnOYHhK4o3H1PVMFW6MsOL7qU+SyXDGEkt\nxYQCnBaTYnAbCoaZ9C+zjjitVX2AZLfmsDTdOI5kha6jqsJkHTdenkOgrh/frb7e\nnkpmI5UR7E8j4WetYCDBU5yv\n-----END PRIVATE KEY-----\n",
+  "client_email": "awxansiblesvcgcp@plasma-moment-281305.iam.gserviceaccount.com",
+  "client_id": "105354563322764698265",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/awxansiblesvcgcp%40plasma-moment-281305.iam.gserviceaccount.com"
+}
