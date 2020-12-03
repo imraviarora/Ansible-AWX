@@ -70,6 +70,6 @@
   hosts: new_instances
   connection: ssh
   become: True
-  roles:
-    - base_configuration
-    - production_server
+#   roles:
+#     - base_configuration
+#     - production_server
